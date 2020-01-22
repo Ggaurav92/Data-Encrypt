@@ -5,7 +5,7 @@ public class Encrypt {
 	public static void main(String[] args) {
 		/*Base64.Encoder enc = Base64.getEncoder();
 		Base64.Decoder dec = Base64.getDecoder();
-		String str = "Mauli@2812$";
+		String str = "Password";
 		
 		
 		
